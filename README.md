@@ -1,6 +1,3 @@
-<<<<<<< Updated upstream
-# To-do-List
-=======
 # Fitness Tracker To-Do List
 
 A user-friendly fitness tracker to organize and manage your workout tasks effectively.
@@ -64,4 +61,3 @@ I welcome contributions! If you'd like to enhance this project, follow these ste
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
->>>>>>> Stashed changes
